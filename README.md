@@ -17,5 +17,7 @@ imagen de las 2 ramas : Main y Mine<br>
 <center>Los 3 commit</center> <br>
 Aqui los ejemplos que demuestran que se desarrollaron los commit dentro de la rama principal<br>
 <td><img src="../../img/Commits.PNG" alt=" " style="width:100%; height:auto"/></td><br>
+<br>
+EN CASO QUE LAS IMAGENES NO CARGUEN, LAS ENCONTRARA EN LA CARPETA "img" que esta en el repositorio<br>
 </div>
 </tbody>
